@@ -1,0 +1,6 @@
+Flask==3.1.1
+Flask-SQLAlchemy==3.1.1
+flask_mysqldb==2.0.0
+pytest==8.4.1
+SQLAlchemy==2.0.43
+pylint==3.3.8
